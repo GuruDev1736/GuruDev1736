@@ -1,3 +1,4 @@
+![logo](https://github.com/GuruDev1736/GuruDev1736/blob/2bc90ab3e37f7a806dd686ef10fd58ce547b6e1d/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Guruprasad Tanaji Bhagat</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
