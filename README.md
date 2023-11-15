@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/guruprasad1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guruprasad1736" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guruprasad-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasad bhagat" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/guruprasad-bhagat](https://www.linkedin.com/in/guru1736?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasad bhagat" height="30" width="40" /></a>
 <a href="https://instagram.com/oyy_guru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyy_guru_" height="30" width="40" /></a>
 </p>
 
